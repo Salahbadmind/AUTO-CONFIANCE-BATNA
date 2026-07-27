@@ -1,0 +1,8 @@
+{
+  "name": "Auto Elite",
+  "description": "Auto Elite - كراء وبيع السيارات في الجزائر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
